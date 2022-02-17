@@ -28,7 +28,7 @@
 - Docker
 - Jira, Asana
   
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwla&count_private=true&show_icons=true)](https://github.com/ryanwla/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanwla&count_private=true&show_icons=true&hide=stars,issues,contribs)](https://github.com/ryanwla/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ryanwla/github-readme-stats)
 
 ## 🔗 Get in touch
