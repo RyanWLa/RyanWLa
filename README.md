@@ -4,7 +4,7 @@
 </h3>
 
 ### 👨‍💻 About me
-- 🔭 Currently a Software Enginner at Inkblot Thearpy 
+- 🔭 Currently a Software Enginner at Inkblot Therapy
 
 ### 📚 Langues and Frameworks
 - JavaScript
