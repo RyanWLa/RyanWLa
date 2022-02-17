@@ -22,6 +22,9 @@
 - Postgresql, MongoDB, MySQL, Firebase
 - AWS S3
 - Elasticsearch
+- Twillio
+- Medstack
+- Tailwind CSS
 
 ### 🔧 Tool
 - Version Control(Git)
